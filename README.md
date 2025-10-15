@@ -53,13 +53,13 @@ Chart: Line plot of portfolio total value over time, auto-updated every 5 messag
 
 ---
 
-##📦 Requirements
+## 📦 Requirements
 
 pip install confluent-kafka pandas plotly
 
 ---
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Developed by Kamil Drzewiecki
 Focus areas: Data Science • Machine Learning • Streaming Analytics
