@@ -42,7 +42,7 @@ The project demonstrates integration between data pipelines and dynamic visualiz
   "timestamp": "2025-10-15T14:05:21Z",
   "total_value": 10325.42
 }
-
+```
 ---
 
 ## 🖥️ Output Example
